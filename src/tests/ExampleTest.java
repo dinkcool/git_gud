@@ -8,6 +8,7 @@ public class ExampleTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		int i = 2;
+		assertEquals("Fail-message", 1+1 , i);
 	}
 }
