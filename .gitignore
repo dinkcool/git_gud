@@ -1,3 +1,2 @@
 # Add path of files and folders that git should ignore
 bin/
-.project
